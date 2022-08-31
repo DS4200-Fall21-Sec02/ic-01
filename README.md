@@ -7,19 +7,21 @@ The purpose of this assignment is to learn about Git, GitHub, and GitHub Pages. 
 
 ## Instructions
 
-1. If you are unfamiliar with Git, GitHub, and GitHub Pages, please start by reviewing the background material provided below in the Resources section.  
+1. If you are unfamiliar with Git, GitHub, and GitHub Pages, please start by reviewing the background material provided below in the Resources section. 
 
-1. Clone this repo. 
+1. Make sure you have an active GitHub account that you can sign into. If you do not have one, create one.  
 
-1. Open index.html in your favorite text editor (if you do not have a favorite, we recommend the free version of [Sublime Text](https://www.sublimetext.com/)) and replace "----Add you name here----" with your name. 
+1. Clone this repo so you have a local copy. Use ssh and git clone.
 
-1. Push your change to your remote repo. 
+1. Locally, open index.html in your favorite text editor (if you do not have a favorite, we recommend the free version of [Sublime Text](https://www.sublimetext.com/)) and replace "----Add you name here----" with your name. Save.  
 
-1. Create a GitHub Page for your repo. 
+1. Push your change to GitHub. 
 
-1. Add the link to your GitHub Page **HERE**. 
+1. In the browser, create a GitHub Page for your GitHub repo. 
 
-1. Push your change to your remote repo. 
+1. Locally, edit this file to add the link to your GitHub Page **HERE**. Save.  
+
+1. Push your change to GitHub. If you open GitHub in the browser, you will see your updated version of this file.    
 
 1. See below for submission instructions.  
 
@@ -87,5 +89,5 @@ For more information on creating GitHub Pages, see the ["Creating you site"](htt
 
 ## Submission
 
-* Be sure to push all changes to your repo and follow all instructions above. 
-* For this portion of your assignment **submit a clickable URL to your GitHub repository** (not your GitHub Page).  
+* Be sure to push all changes to GitHub and follow all instructions above. 
+* Follow instructions on Gradescope to submit this assignment.   
